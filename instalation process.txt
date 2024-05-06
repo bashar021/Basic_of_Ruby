@@ -1,0 +1,23 @@
+download latest version of ruby from "https://rubyinstaller.org/downloads/"
+
+install the downloaded package
+
+choose what to install in your cmd when it it will open after installation 
+if don't know then hit enter
+
+which components shall be installed? if unsure press enter[] this will show in  the terminal
+simply hit enter if unsure 
+
+check the installation 
+
+ruby -v
+
+
+
+
+setup in vs code
+
+go to the Ruby32-x64\bin   path and copy it  and the past it into the env variable in the system variable section 
+
+
+
